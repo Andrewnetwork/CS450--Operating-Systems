@@ -1,0 +1,34 @@
+******** RESULTS **********
+
+
+*** SJF(Preemptive) RESULTS ****
+* Number of processes: 20
+* Average wait time: 165 cycles
+* Average burst time: 27 cycles
+* Average priority: 2 cycles
+* Total cycles: 543
+********************
+
+
+
+
+*** SJF(Non-Preemptive) RESULTS ****
+* Number of processes: 20
+* Average wait time: 168 cycles
+* Average burst time: 27 cycles
+* Average priority: 2 cycles
+* Total cycles: 543
+********************
+
+
+
+
+*** FCFS RESULTS ****
+* Number of processes: 20
+* Average wait time: 230 cycles
+* Average burst time: 27 cycles
+* Average priority: 2 cycles
+* Total cycles: 543
+********************
+
+
